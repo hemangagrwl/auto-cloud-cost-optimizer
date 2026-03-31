@@ -1,0 +1,24 @@
+venv/
+__pycache__/
+*.pyc
+
+# Data files (generated)
+data/raw/*.json
+data/processed/*.csv
+data/processed/*.parquet
+
+# Models (optional: include if needed)
+# models/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Env variables
+.env

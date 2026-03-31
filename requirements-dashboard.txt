@@ -1,0 +1,6 @@
+# Optional dashboard dependencies.
+# Streamlit may not be available yet for Python 3.14 on Windows.
+# If installation fails, use Python 3.11 or 3.12 for the dashboard.
+streamlit
+plotly
+streamlit-autorefresh

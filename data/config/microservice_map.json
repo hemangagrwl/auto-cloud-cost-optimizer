@@ -1,0 +1,25 @@
+{
+  "resource_id": {},
+  "resource_name": {
+    "srv-01": "API Gateway",
+    "srv-02": "API Gateway",
+    "srv-03": "API Gateway",
+    "srv-04": "Payments",
+    "srv-05": "Payments",
+    "srv-06": "Payments",
+    "srv-07": "Analytics",
+    "srv-08": "Analytics",
+    "srv-09": "Analytics",
+    "srv-10": "Batch Processing",
+    "srv-11": "Batch Processing",
+    "srv-12": "Batch Processing",
+    "monitor-node": "Monitoring",
+    "lambda-bursty": "Serverless",
+    "lambda-failing": "Serverless",
+    "lambda-heavy": "Serverless",
+    "lambda-io-heavy": "Serverless",
+    "lambda-light": "Serverless",
+    "sourav-cost-high-20260328": "Storage",
+    "sourav-cost-low-20260328": "Storage"
+  }
+}
