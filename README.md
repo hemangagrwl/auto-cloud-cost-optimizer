@@ -374,9 +374,14 @@ S3 storage metrics are daily snapshots in CloudWatch. Polling them every 60 seco
 | Data Storage | Amazon S3 (Parquet + CSV) |
 
 ---
+<img width="1642" height="644" alt="Screenshot 2026-03-31 225230" src="https://github.com/user-attachments/assets/d45a17ad-b4e3-4b04-b461-ace491dfad11" />
+
 <img width="1903" height="812" alt="image" src="https://github.com/user-attachments/assets/f5476013-8c81-4833-97db-538ab7ddee16" />
+
 <img width="1903" height="812" alt="Screenshot 2026-03-31 225407" src="https://github.com/user-attachments/assets/62061110-7d4c-458c-82ef-b1c96da6d245" />
+
 <img width="1901" height="602" alt="Screenshot 2026-03-31 225456" src="https://github.com/user-attachments/assets/69a06751-f637-49eb-b2e5-8f4ee72f3df2" />
+
 <img width="1424" height="683" alt="image" src="https://github.com/user-attachments/assets/f9762777-521f-4c13-bbdc-80521fb72df2" />
 
 
